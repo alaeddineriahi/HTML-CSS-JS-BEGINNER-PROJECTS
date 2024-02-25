@@ -12,7 +12,6 @@ Each project has its own branch in this repository. You can switch to a differen
 - To Do List: `to-do-list`
 - Weather App: `weather-app`
 - Quiz App: `quiz-app`
-- ... (add more projects as you wish)
 
 ## How to use
 
