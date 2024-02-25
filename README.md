@@ -4,7 +4,7 @@ This project is a simple web application that allows you to generate QR codes fr
 
 ## How to use
 
-To use this application, you need to have a web browser that supports HTML, CSS, and JavaScript. You can either download the source code from this repository and open the `index.html` file in your browser, or you can visit the live demo here.
+To use this application, you need to have a web browser that supports HTML, CSS, and JavaScript. You can either download the source code from this repository and open the `index.html` file in your browser.
 
 To generate a QR code, simply enter your text or URL in the input box and click the "GENERATE QR CODE" button. The QR code will appear below the input box. You can save the QR code image by right-clicking on it and choosing "Save image as...".
 
